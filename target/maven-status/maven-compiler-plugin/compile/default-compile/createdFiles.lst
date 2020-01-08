@@ -1,0 +1,10 @@
+es\uah\cc\conf\AppConfig.class
+es\uah\cc\domain\DataTemperature.class
+es\uah\cc\domain\DataPressure.class
+es\uah\cc\controler\ControllerChair.class
+es\uah\cc\domain\Status.class
+es\uah\cc\repository\ChairRepository.class
+es\uah\cc\service\ChairService.class
+es\uah\cc\domain\Users.class
+es\uah\cc\Application.class
+es\uah\cc\repository\ChairMapper.class
